@@ -53,6 +53,8 @@
     Пример 10 тест: username = jovanakocevska; password = lozinkA
     Пример 11 тест: username = jovanakocevska; password = lozin*ka
     Пример 12 тест: username = jovanakocevska; password = lozinka
+    
+![matrix](https://user-images.githubusercontent.com/63447663/84568587-b0b08900-ad80-11ea-82d6-1ac6c96dff6e.png)
 
 ### Every Path критериум:
     1. ABCZ – јазолот А се извршува во секој случај при почеток на функцијата, ги иницијализира специјалните карактери кои  би можеле да се содржат во лозинката. 

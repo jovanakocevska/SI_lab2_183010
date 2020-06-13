@@ -6,7 +6,7 @@
     Ја добив група на код 3.
     
 ### Control Flow Graph:
-![cfg](https://user-images.githubusercontent.com/63447663/84568047-1c90f280-ad7d-11ea-8573-60ef67c0de52.png)
+![cfg](https://user-images.githubusercontent.com/63447663/84570387-89ac8400-ad8d-11ea-8dd6-d4e8e8bd2a69.png)
 
 ![statements](https://user-images.githubusercontent.com/63447663/84568767-f6ba1c80-ad81-11ea-8d8d-24d77c16dd76.png)
 

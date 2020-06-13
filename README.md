@@ -6,7 +6,7 @@
     Ја добив група на код 3.
     
 ### Control Flow Graph
-    
+    ![cfg](https://user-images.githubusercontent.com/63447663/84568047-1c90f280-ad7d-11ea-8573-60ef67c0de52.png)
 
 ### Цикломатска комплексност:
 

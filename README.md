@@ -39,29 +39,29 @@
     Z: Дваесет и шестиот јазол Z го означува крајот на функцијата.
 
 #### Every Statement критериум - тестови:
-Пример 1 тест: неинстанциран корисник
+    Пример 1 тест: неинстанциран корисник
 
-Пример 2 тест: невнесени корисничко име и лозинка
+    Пример 2 тест: невнесени корисничко име и лозинка
 
-Пример 3 тест: username: jovanakocevska password: jovanakocevska
+    Пример 3 тест: username: jovanakocevska password: jovanakocevska
 
-Пример 4 тест: username: jovanakocevska password: 123_4
+    Пример 4 тест: username: jovanakocevska password: 123_4
 
-Пример 5 тест: username: jovanakocevska password: L0ZinK*a5
+    Пример 5 тест: username: jovanakocevska password: L0ZinK*a5
 
-Пример 6 тест: username: jovanakocevska password: L0ZinKa5
+    Пример 6 тест: username: jovanakocevska password: L0ZinKa5
 
-Пример 7 тест: username: jovanakocevska password: l0zin*ka5
+    Пример 7 тест: username: jovanakocevska password: l0zin*ka5
 
-Пример 8 тест: username: jovanakocevska password: LoZin*Ka
+    Пример 8 тест: username: jovanakocevska password: LoZin*Ka
 
-Пример 9 тест: username = jovanakocevska; password = l4zinkaa
+    Пример 9 тест: username = jovanakocevska; password = l4zinkaa
 
-Пример 10 тест: username = jovanakocevska; password = lozinkA
+    Пример 10 тест: username = jovanakocevska; password = lozinkA
 
-Пример 11 тест: username = jovanakocevska; password = lozin*ka
+    Пример 11 тест: username = jovanakocevska; password = lozin*ka
 
-Пример 12 тест: username = jovanakocevska; password = lozinka
+    Пример 12 тест: username = jovanakocevska; password = lozinka
 
 
 ### Every Path критериум:
